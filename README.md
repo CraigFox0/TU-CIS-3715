@@ -6,3 +6,6 @@ Sample code to see how Python works
 
 ## Lab 2: Vector and Matrix Tutorial
 Sample code to learn how to use Python to operate vectors and matrices
+
+## Lab 3: Preprocessing
+Wrote code to preprocess sample insurance data
