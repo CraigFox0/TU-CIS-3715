@@ -9,3 +9,6 @@ Sample code to learn how to use Python to operate vectors and matrices
 
 ## Lab 3: Preprocessing
 Wrote code to preprocess sample insurance data
+
+## Lab 4: Linear Regression
+Wrote code to predict insurance charges using linear and ridge regression
