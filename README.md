@@ -12,3 +12,6 @@ Wrote code to preprocess sample insurance data
 
 ## Lab 4: Linear Regression
 Wrote code to predict insurance charges using linear and ridge regression
+
+## Lab 5: Logistic Regression
+Wrote code to predict heart disease using logistic regression
