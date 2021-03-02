@@ -15,3 +15,6 @@ Wrote code to predict insurance charges using linear and ridge regression
 
 ## Lab 5: Logistic Regression
 Wrote code to predict heart disease using logistic regression
+
+## Lab 6: Clustering
+Wrote code to analyze heart disease using clustering
