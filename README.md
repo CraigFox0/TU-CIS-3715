@@ -17,4 +17,7 @@ Wrote code to predict insurance charges using linear and ridge regression
 Wrote code to predict heart disease using logistic regression
 
 ## Lab 6: Clustering
-Wrote code to analyze heart disease using clustering
+Wrote code to analyze heart disease dataset using clustering
+
+## Lab 7: Dimensionality Reduction
+Wrote code to reduce heart disease dataset dimensionality and analyze its performance
