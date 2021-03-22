@@ -21,3 +21,6 @@ Wrote code to analyze heart disease dataset using clustering
 
 ## Lab 7: Dimensionality Reduction
 Wrote code to reduce heart disease dataset dimensionality and analyze its performance
+
+## Lab 8: PageRank
+Wrote code emulating Google's PankRank algorithm
