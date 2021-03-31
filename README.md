@@ -24,3 +24,6 @@ Wrote code to reduce heart disease dataset dimensionality and analyze its perfor
 
 ## Lab 8: PageRank
 Wrote code emulating Google's PankRank algorithm
+
+## Lab 9: Document Classification
+Wrote code classifying BBC news articles
