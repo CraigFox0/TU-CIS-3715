@@ -28,5 +28,5 @@ Wrote code emulating Google's PankRank algorithm
 ## Lab 9: Document Classification
 Wrote code classifying BBC news articles
 
-## Lab 9: Recommendation System
+## Lab 10: Recommendation System
 Made both a user-based and item-based movie recommendation system and tested its accuracy
